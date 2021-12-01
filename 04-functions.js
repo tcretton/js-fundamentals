@@ -8,9 +8,13 @@ function opa() {
 function ola() {
     console.log('Olá!')
 }
+
 opa()
 
-//Pure function - Use sempre que possive
+function soma(a,b) {
+    let c = a + b
+    return c   
+}
 
 
 // Outra forma definir function => ou inves de usar function
