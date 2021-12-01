@@ -1,10 +1,11 @@
 # Javascript
 É uma linguagem de script. (não compilada, em tempo de execução.)
 
-COmpiladas:
 Source >> Código Binario >> Executavel
-arquivo.c  >> arquivo.exe
+arquivo.c  >> arquivo.exe >> Executavel pelo SO
 
+Source      >> Executavel
+arquivo.js  >> Executavel pelo navegador
 
 ECMAScript - Padroniza Script ()
 
