@@ -7,7 +7,17 @@ function opa() {
 function ola() {
     console.log('Olá!')
 }
+
 opa()
+
+function soma(a,b) {
+    let c = a + b
+    return c   
+}
+
+
+*/
+
 
 // Outra forma definir function => ou inves de usar function
 const soma = (a, b) => a + b
