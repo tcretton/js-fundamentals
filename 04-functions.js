@@ -9,6 +9,8 @@ function ola() {
     console.log('Olá!')
 }
 
+ola()
+
 opa()
 
 function soma(a,b) {
@@ -18,6 +20,6 @@ function soma(a,b) {
 
 
 // Outra forma definir function => ou inves de usar function
-const soma = (a, b) => a + b
+const somar = (a, b) => a + b
 const c = soma(10, 5)
 console.log(c)
