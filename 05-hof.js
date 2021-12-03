@@ -1,5 +1,5 @@
-/* 
-* High Order Functions
+/* Fullstack Master - Devpleno - Tércio Cretton
+* High Order Functions - Title
 ! Alert
 */
 
