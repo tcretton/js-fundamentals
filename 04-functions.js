@@ -6,7 +6,7 @@ function opa() {
     ola()
 }
 function ola() {
-    console.log('Olá!')
+    console.log('Olá!!!!')
 }
 
 ola()
