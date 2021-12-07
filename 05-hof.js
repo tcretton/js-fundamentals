@@ -1,6 +1,6 @@
 /* Fullstack Master - Devpleno - Tércio Cretton
 * High Order Functions - Title
-! Alert
+! Alerto Alert
 */
 
 const soma = (a, b) => a + b
