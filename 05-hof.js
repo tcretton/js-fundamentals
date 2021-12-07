@@ -15,9 +15,13 @@ const selectOp = op => {
   }
 }
 
-const c = calc (selectOp('+'), 10, 5)
 
+const c = calc (selectOp('+'), 10, 5)
 console.log(c)
+
+const d = calc (selectOp('+'), 10, 5)
+
+console.log(d)
 
 
 
